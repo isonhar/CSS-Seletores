@@ -1,1 +1,1 @@
-<h1 alingn="center">Mini curso CSS</h1>
+<h1 align="center">Mini curso CSS</h1>
