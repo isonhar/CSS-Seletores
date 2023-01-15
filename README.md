@@ -3,7 +3,6 @@
 
 <h2>Assuntos:</h2>
 
-- Introdução
 - Oque é CSS
 - Sintaxe CSS
 - Seletores
