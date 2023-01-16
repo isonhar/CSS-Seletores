@@ -65,7 +65,7 @@
 - As bordas podem ter largura, cores e estilo
 - A propriedade “ borde:  ; “ recebe pode receber 3 valores
 
-      border: largura estilo cor;
+      border: largura estilo cor; /* define a borda de um elemento */
 
 - Alguns estilos q uma borda pode receber são:
 - none: invisivel
