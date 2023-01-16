@@ -8,9 +8,7 @@
 - Sua sintex é composta por um “Seletor” seguido de aspas” { }”,Dentro da aspa ficaram os estilos separados por “;”
 
        Seletor {
-
           Estilo:atributo;
-
        }
 
 - Com CSS você pode criar desde estilos simples,efeitos e animações avançadas.
