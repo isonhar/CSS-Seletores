@@ -1,6 +1,5 @@
 <h1 align="center">Revisão simples de CSS basico<h1>
 
-
 # CSS
 
 - Cascading Style Sheet,CSS,é uma linguagem de estilo, responsavel pela parte estética de uma aplicação.
