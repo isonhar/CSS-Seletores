@@ -2,7 +2,7 @@
 
 # CSS
 
-- Cascading Style Sheet,CSS,é uma linguagem de estilo, responsavel pela parte estética de uma aplicação.
+- Cascading Style Sheet( CSS ),é uma linguagem de estilo responsável pela parte estética de uma aplicação.
 
 - Sua sintex é composta por um “Seletor” seguido de aspas” { }”,Dentro da aspa ficaram os estilos separados por “;”
 
