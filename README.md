@@ -24,4 +24,4 @@
 
 - 🔸 " > " : Seleta apenas os filhos diretos.
 
-- 🔸 "   " (Space) : Seleta qualquer nivel de descendência
+- 🔸 (Space) : Seleta qualquer nivel de descendência
