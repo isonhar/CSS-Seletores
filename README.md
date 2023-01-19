@@ -1,27 +1,61 @@
 # ❇️CSS Seletores
 
-- 🔸Seletores definem qual ou quais elementos vão receber propriedades.
+🔸Seletores definem qual ou quais elementos vão receber propriedades.
 
 ## 💠Seletores
 
-- 🔸Por tags: header,div,input…
+🔸tags :
 
-- 🔸Classe : .nomeDaClasse
+> header, div, input, a, section, button, img …
+> 
 
-- 🔸ID : #idDoElemento
+🔸Classes :
 
-- 🔸Todos os elementos :  *
+> Você chama classes com um “ . “ antes do nome da classe.
+> 
 
-- 🔸por atributo : [atributo=valor]
+> .nomeDaClasse
+> 
 
-</br>
+🔸IDs : 
+
+> Você chama IDs com um “ # “ antes do ID do elemento.
+> 
+
+> #idDoElemento
+> 
+
+🔸Todos os elementos :  
+
+> Com o “ * “, você diz para o css que quer estilizar todos os elementos existente.
+> 
+
+🔸por atributo :
+
+> Você pode chamar qualquer Seletor e especificar ele mais ainda falando seus atributos.
+> 
+
+> a[href=”….”]     button[type=”…”]
+> 
 
 ## 💠Seletores combinadores
 
-- 🔸 " + " : Seleta o primeiro  após a referência,que tenham pai em comum.
+🔸” + ”  : 
 
-- 🔸 " ~ " : Seleta todos após a referência,que tenham pai em comum.
+> Seleta o primeiro  após a referência,que tenham pai em comum.
+> 
 
-- 🔸 " > " : Seleta apenas os filhos diretos.
+🔸” ~ “ : 
 
-- 🔸 (Space) : Seleta qualquer nivel de descendência
+> Seleta todos após a referência,que tenham pai em comum.
+> 
+
+🔸” > “ : 
+
+> Seleta apenas os filhos diretos.
+> 
+
+🔸“    “ (Space) :
+
+> Seleta qualquer nivel de descendência
+>
