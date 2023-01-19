@@ -52,6 +52,7 @@
 
 ---
 
+</br>
 ## 💠Seletores combinadores
 
 🔸” + ”  : 
