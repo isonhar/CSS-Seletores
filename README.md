@@ -1,5 +1,3 @@
-# CSS Seletores
-
 # ❇️CSS Seletores
 
 🔸Seletores definem qual ou quais elementos vão receber propriedades.
