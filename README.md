@@ -18,10 +18,10 @@
 
 ## 💠Seletores combinadores
 
-- 🔸+ : Seleta o primeiro  após a referência,que tenham pai em comum.
+- 🔸 " + " : Seleta o primeiro  após a referência,que tenham pai em comum.
 
-- 🔸~ : Seleta todos após a referência,que tenham pai em comum.
+- 🔸 " ~ " : Seleta todos após a referência,que tenham pai em comum.
 
 - 🔸 " > " : Seleta apenas os filhos diretos.
 
-- 🔸“  “ (Space) : Seleta qualquer nivel de descendência
+- 🔸 "   " (Space) : Seleta qualquer nivel de descendência
